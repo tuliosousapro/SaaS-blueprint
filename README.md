@@ -19,6 +19,7 @@
 <br/>
 
 ## 📑 Table of Contents
+
 - [🚀 What is this project?](#-what-is-this-project)
 - [📂 The Playbook Library](#-the-playbook-library-dummy-data)
 - [🔄 The SaaS Lifecycle](#-the-saas-lifecycle)
@@ -234,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Building your SaaS with this Command Center? Let the world know and help us improve the playbook.
 
-- **Found a bug or have a better strategy?** [Read the Contributing Guide](CONTRIBUTING.md) and open a PR.
+- Contributions are welcome! Please [Read the Contributing Guide](CONTRIBUTING.md) and open a PR.
 - **Want to show off your build?** [Share it on X / Twitter](https://twitter.com/intent/tweet?text=Just%20found%20the%20ultimate%20AI-assisted%20SaaS%20Command%20Center.%20A%20plug-and-play%20playbook%20for%20Vibe-Coding%20your%20way%20to%20MRR.%20%F0%9F%9A%80%20https://github.com/tuliosousapro/SaaS-blueprint)
 
 ## 🙏 Acknowledgments
