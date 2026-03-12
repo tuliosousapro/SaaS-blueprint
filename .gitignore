@@ -1,0 +1,15 @@
+# Node, environment, and OS specific ignores
+node_modules/
+.env
+.env.*
+.DS_Store
+
+# Temporary workspace files
+.gemini/
+.cursor/
+
+# Python, etc if applicable
+__pycache__/
+*.pyc
+
+gha-creds-*.json
