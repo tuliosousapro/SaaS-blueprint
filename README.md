@@ -17,11 +17,13 @@ Designed for founders who want speed, clarity, and execution without chaos.
 > A modular, AI‑ready blueprint with 80+ specialized playbooks that turn ideas into revenue.  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logoColor=white)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com)
-[![Made for Builders](https://img.shields.io/badge/Made%20for-Builders-purple.svg)](#)
-[![Playbooks](https://img.shields.io/badge/Playbooks-80%2B-orange.svg)](#)
-[![Version](https://img.shields.io/badge/Version-1.0-black.svg)](#)
-[![GitHub issues](https://img.shields.io/github/issues/tuliosousapro/Kindle-To-Notion-Extension?style=for-the-badge&logo=fireship&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/Kindle-To-Notion-Extension/issues)  [![GitHub stars](https://img.shields.io/github/stars/tuliosousapro/Kindle-To-Notion-Extension?style=for-the-badge&x=3&logo=github&logoColor=white&label=Stars&labelColor=000&color=green)](https://github.com/tuliosousapro/Kindle-To-Notion-Extension/stargazers)  [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuliosousapro/Kindle-To-Notion-Extension?style=for-the-badge&x=3&logo=github&logoColor=white&label=commits&labelColor=000&color=green)](https://github.com/tuliosousapro/Kindle-To-Notion-Extension/commits)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](http://makeapullrequest.com)
+[![Made for Builders](https://img.shields.io/badge/Made%20for-Builders-purple.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint)
+[![Playbooks](https://img.shields.io/badge/Playbooks-80%2B-orange.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/tree/main/Dummy%20Data)
+[![Version](https://img.shields.io/badge/Version-1.0-black.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/blob/main/VERSION.md)
+[![GitHub issues](https://img.shields.io/github/issues/tuliosousapro/SaaS-blueprint?style=for-the-badge&logo=fireship&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/issues)  
+[![GitHub stars](https://img.shields.io/github/stars/tuliosousapro/SaaS-blueprint?style=for-the-badge&x=3&logo=github&logoColor=white&label=Stars&labelColor=000&color=green)](https://github.com/tuliosousapro/SaaS-blueprint/stargazers)  
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuliosousapro/SaaS-blueprint?style=for-the-badge&x=3&logo=github&logoColor=white&label=commits&labelColor=000&color=green)](https://github.com/tuliosousapro/SaaS-blueprint/commits)
 
 </div>
 
