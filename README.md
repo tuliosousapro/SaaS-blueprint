@@ -1,14 +1,10 @@
 <div align="center">
-  
-```text
-  
-  ____  ____      _    ___ _   _ ___    _    ____ 
- | __ )|  _ \    / \  |_ _| \ | |_ _|  / \  / ___|
- |  _ \| |_) |  / _ \  | ||  \| || |  / _ \| |    
- | |_) |  _ <  / ___ \ | || |\  || | / ___ \ |___ 
- |____/|_| \_\/_/   \_\___|_| \_|___/_/   \_\____|
-```
- </div>
+  <img 
+    src="https://github.com/tuliosousapro/SaaS-blueprint/blob/b9aac824513bdbdaf6b65b443675b9b047a0636d/docs/brainiac-saas-blueprint-banner.png" 
+    width="900"
+    alt="BRAINIAC SaaS Blueprint Banner"
+  />
+</div>
 
 # SAAS COMMAND CENTER BLUEPRINT
 
