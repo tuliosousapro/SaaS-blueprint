@@ -10,9 +10,23 @@
 
 # SaaS-Blueprint: The Vibe-Coding Command Center
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Built with: Vibe Coding](https://img.shields.io/badge/Built%20with-Vibe%20Coding-blueviolet.svg)](#)
+
 </div>
 
 <br/>
+
+## 📑 Table of Contents
+- [🚀 What is this project?](#-what-is-this-project)
+- [📂 The Playbook Library](#-the-playbook-library-dummy-data)
+- [🔄 The SaaS Lifecycle](#-the-saas-lifecycle)
+- [🎯 Who is it for?](#-who-is-it-for)
+- [💡 Why this exists](#-why-this-exists--why-i-made-it)
+- [🏆 Best Use Cases](#-best-use-cases)
+- [🤖 The "Origin" Prompt](#-the-origin-prompt)
+- [🤝 Contribute & Share](#-contribute--share)
 
 ## 🚀 What is this project?
 
@@ -27,6 +41,26 @@ The `Dummy Data/` directory is not just "sample data" it is a **modular, plug-an
 - **Plug & Play:** Download the `Dummy Data/` folder, plug it into your AI of choice, and watch it generate an entire, verified plan to build a **$10K/MRR SaaS**.
 - **Community-Driven:** We aim to make this the world's most complete, action-oriented playbook for SaaS development.
 - **Contribute:** Have a high-leverage strategy for SEO, Conversion, or Scaling? **Fork this repo and open a PR.** If it moves the needle, we want it in the master playbook.
+
+## 🔄 The SaaS Lifecycle
+
+```mermaid
+graph TD
+    A[Idea & Validation] --> B[Planning & Design]
+    B --> C[Development & Infra]
+    C --> D[Testing & Launch]
+    D --> E[Acquisition & Dist]
+    E --> F[Conversion & Retain]
+    F --> G[Revenue & Scaling]
+    
+    style A fill:#1e1e1e,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#1e1e1e,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#1e1e1e,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#1e1e1e,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#1e1e1e,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#1e1e1e,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#1e1e1e,stroke:#00ff00,stroke-width:2px,color:#fff
+```
 
 ## 🎯 Who is it for?
 
@@ -196,21 +230,21 @@ This directory is a **SaaS Command Center**, NOT an APP. It's a comprehensive pl
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
+## 🤝 Contribute & Share
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests.
+Building your SaaS with this Command Center? Let the world know and help us improve the playbook.
+
+- **Found a bug or have a better strategy?** [Read the Contributing Guide](CONTRIBUTING.md) and open a PR.
+- **Want to show off your build?** [Share it on X / Twitter](https://twitter.com/intent/tweet?text=Just%20found%20the%20ultimate%20AI-assisted%20SaaS%20Command%20Center.%20A%20plug-and-play%20playbook%20for%20Vibe-Coding%20your%20way%20to%20MRR.%20%F0%9F%9A%80%20https://github.com/tuliosousapro/SaaS-blueprint)
 
 ## 🙏 Acknowledgments
 
 - Shout out to @[hridoyreh](https://x.com/hridoyreh) for the folder blueprint.
 
-## 🔗 Links
-
-- [PROMPT](SaaS-blueprint-prompt.md)
-- [LICENSE](LICENSE)
-- [CONTRIBUTING.md](CONTRIBUTING.md)
-
 ---
-
-**Since 2025** | [Túlio Sousa](https://github.com/tuliosousapro)
-> <a href="https://x.com/tuliosousapro"><img src="https://img.shields.io/badge/Follow_ME-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+<div align="center">
+  <b>Since 2025 | <a href="https://github.com/tuliosousapro">Túlio Sousa</a></b><br><br>
+  <a href="https://x.com/tuliosousapro"><img src="https://img.shields.io/badge/Follow_ME-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
+  <br><br>
+  <i>Stay focused. Ship it.</i>
+</div>
