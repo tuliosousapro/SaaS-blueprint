@@ -17,17 +17,42 @@ Designed for founders who want speed, clarity, and execution without chaos.
 > A modular, AI‑ready blueprint with 80+ specialized playbooks that turn ideas into revenue.  
 
 <!-- markdownlint-disable MD033 -->
-<div align="center">
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logoColor=white)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](http://makeapullrequest.com)
-[![Made for Builders](https://img.shields.io/badge/Made%20for-Builders-purple.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint)
-[![Playbooks](https://img.shields.io/badge/Playbooks-80%2B-orange.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/tree/main/Dummy%20Data)
-[![Version](https://img.shields.io/badge/Version-1.0-black.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/blob/main/VERSION.md)
-[![GitHub issues](https://img.shields.io/github/issues/tuliosousapro/SaaS-blueprint?style=for-the-badge&logo=fireship&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/issues)  
-[![GitHub stars](https://img.shields.io/github/stars/tuliosousapro/SaaS-blueprint?style=for-the-badge&x=3&logo=github&logoColor=white&label=Stars&labelColor=000&color=green)](https://github.com/tuliosousapro/SaaS-blueprint/stargazers)  
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuliosousapro/SaaS-blueprint?style=for-the-badge&x=3&logo=github&logoColor=white&label=commits&labelColor=000&color=green)](https://github.com/tuliosousapro/SaaS-blueprint/commits)
-</div>
-<!-- markdownlint-enable MD033 --
+<p align="center">
+
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logoColor=white" alt="MIT License">
+  </a>
+
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="PRs Welcome">
+  </a>
+
+  <a href="https://github.com/tuliosousapro/SaaS-blueprint">
+    <img src="https://img.shields.io/badge/Made%20for-Builders-purple.svg?style=for-the-badge&logo=github&logoColor=white&color=purple" alt="Made for Builders">
+  </a>
+
+  <a href="https://github.com/tuliosousapro/SaaS-blueprint/tree/main/Dummy%20Data">
+    <img src="https://img.shields.io/badge/Playbooks-80%2B-orange.svg?style=for-the-badge&logo=github&logoColor=white&color=orange" alt="Playbooks">
+  </a>
+
+  <a href="https://github.com/tuliosousapro/SaaS-blueprint/blob/main/VERSION.md">
+    <img src="https://img.shields.io/badge/Version-1.0-black.svg?style=for-the-badge&logo=github&logoColor=white&color=black" alt="Version">
+  </a>
+
+  <a href="https://github.com/tuliosousapro/SaaS-blueprint/issues">
+    <img src="https://img.shields.io/github/issues/tuliosousapro/SaaS-blueprint?style=for-the-badge&logo=fireship&logoColor=white&color=fc9d08" alt="GitHub Issues">
+  </a>
+
+  <a href="https://github.com/tuliosousapro/SaaS-blueprint/stargazers">
+    <img src="https://img.shields.io/github/stars/tuliosousapro/SaaS-blueprint?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=000&color=green" alt="GitHub Stars">
+  </a>
+
+  <a href="https://github.com/tuliosousapro/SaaS-blueprint/commits">
+    <img src="https://img.shields.io/github/commit-activity/m/tuliosousapro/SaaS-blueprint?style=for-the-badge&logo=github&logoColor=white&label=commits&labelColor=000&color=green" alt="Commit Activity">
+  </a>
+
+</p>
+<!-- markdownlint-enable MD033 -->
 
 <br/>
 
