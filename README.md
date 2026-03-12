@@ -16,6 +16,8 @@ Designed for founders who want speed, clarity, and execution without chaos.
 > **This is not an app. This is your Command Center.**  
 > A modular, AI‑ready blueprint with 80+ specialized playbooks that turn ideas into revenue.  
 
+<!-- markdownlint-disable MD033 -->
+<div align="center">
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logoColor=white)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](http://makeapullrequest.com)
 [![Made for Builders](https://img.shields.io/badge/Made%20for-Builders-purple.svg?style=for-the-badge&logo=github&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint)
@@ -24,8 +26,8 @@ Designed for founders who want speed, clarity, and execution without chaos.
 [![GitHub issues](https://img.shields.io/github/issues/tuliosousapro/SaaS-blueprint?style=for-the-badge&logo=fireship&logoColor=white&color=fc9d08)](https://github.com/tuliosousapro/SaaS-blueprint/issues)  
 [![GitHub stars](https://img.shields.io/github/stars/tuliosousapro/SaaS-blueprint?style=for-the-badge&x=3&logo=github&logoColor=white&label=Stars&labelColor=000&color=green)](https://github.com/tuliosousapro/SaaS-blueprint/stargazers)  
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuliosousapro/SaaS-blueprint?style=for-the-badge&x=3&logo=github&logoColor=white&label=commits&labelColor=000&color=green)](https://github.com/tuliosousapro/SaaS-blueprint/commits)
-
 </div>
+<!-- markdownlint-enable MD033 --
 
 <br/>
 
