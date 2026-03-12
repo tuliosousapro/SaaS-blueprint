@@ -209,3 +209,8 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fi
 - [PROMPT](SaaS-blueprint-prompt.md)
 - [LICENSE](LICENSE)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+**Since 2025** | [Túlio Sousa](https://github.com/tuliosousapro)
+> <a href="https://x.com/tuliosousapro"><img src="https://img.shields.io/badge/Follow_ME-000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
