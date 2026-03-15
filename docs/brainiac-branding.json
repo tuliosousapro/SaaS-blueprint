@@ -1,0 +1,49 @@
+{
+  "project": "BRAINIAC",
+  "theme": "cyberpunk_neon",
+  "colors": {
+    "background": {
+      "hex": "#091421",
+      "description": "deep navy blue/dark teal"
+    },
+    "grid_lines": {
+      "hex": "#1d3d5f",
+      "description": "muted medium blue"
+    },
+    "grid_dots": {
+      "hex": "#3ce8ec",
+      "description": "bright cyan/aqua"
+    },
+    "text_primary_fill": {
+      "hex": "#ffffff",
+      "description": "pure white"
+    },
+    "text_accent_glow": {
+      "hex": "#40e0cf",
+      "description": "cyan/aqua glow"
+    },
+    "text_secondary": {
+      "hex": "#768b9a",
+      "description": "light grayish blue"
+    }
+  },
+  "typography": {
+    "primary": {
+      "text": "BRAINIAC",
+      "style": "bold, geometric, slightly futuristic sans-serif with cut corners on the 'B', 'R', and 'C'. Features an outer cyan glow and solid white fill.",
+      "effects": ["cyan neon outer glow", "white solid fill"]
+    },
+    "secondary": {
+      "text": "SAAS COMMAND CENTER BLUEPRINT.",
+      "style": "monospace, clean, highly legible terminal/code font.",
+      "effects": ["no glow", "flat fill"]
+    }
+  },
+  "elements": {
+    "background_pattern": "A strict rectangular grid spanning the entire composition. Intersections of horizontal and vertical lines are marked with glowing cyan dots.",
+    "character_mascot": {
+      "position": "top left and faintly mirrored on top right",
+      "description": "A glowing, volumetric rendering of a stylized bear/animal head constructed out of what looks like white neon wireframe or glowing particles."
+    }
+  }
+}
