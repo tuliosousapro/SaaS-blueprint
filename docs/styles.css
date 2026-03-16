@@ -28,6 +28,11 @@
 }
 
 /* ---------- Base ---------- */
+::selection {
+  background-color: var(--brand-cyan);
+  color: var(--bg-color);
+}
+
 body {
   font-family: var(--font-body);
   background-color: var(--bg-color);
@@ -105,12 +110,17 @@ h6 {
 
 /* ---------- Nav ---------- */
 nav {
-  padding: 2rem 0;
+  padding: 1.5rem 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: relative;
-  z-index: 10;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: rgba(9, 20, 33, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(29, 61, 95, 0.4);
 }
 
 .logo {
@@ -153,7 +163,7 @@ nav {
 
 /* ---------- Hero ---------- */
 .hero {
-  padding: 7rem 0 5rem;
+  padding: 6rem 0 5rem;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -376,6 +386,22 @@ nav {
   font-style: italic;
 }
 
+.terminal-cursor {
+  display: inline-block;
+  width: 8px;
+  height: 1em;
+  background-color: var(--brand-cyan);
+  vertical-align: middle;
+  margin-left: 2px;
+  animation: blink 1s step-start infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
 .copy-btn {
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid var(--border-color);
@@ -435,6 +461,8 @@ nav {
   border-bottom: 1px solid rgba(64, 224, 207, 0.15);
   overflow: hidden;
   display: flex;
+  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
 }
 
 .marquee {
@@ -501,8 +529,13 @@ nav {
 
 .benefits-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.benefits-grid:has(.benefit-card:hover) .benefit-card:not(:hover) {
+  opacity: 0.5;
+  transform: scale(0.98);
 }
 
 .section-description {
@@ -518,11 +551,11 @@ nav {
 }
 
 .benefit-card {
-  background: #111827;
-  border: 1px solid var(--border-color);
+  background: rgba(17, 24, 39, 0.6);
+  border: 1px solid rgba(29, 61, 95, 0.4);
   border-radius: 12px;
   padding: 2rem 1.5rem;
-  transition: all 0.3s ease;
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
   position: relative;
   overflow: hidden;
   display: flex;
@@ -530,18 +563,35 @@ nav {
   align-items: center;
   text-align: center;
   cursor: pointer;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .benefit-card:hover {
-  border-color: rgba(64, 224, 207, 0.4);
-  transform: translateY(-4px);
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4), 0 0 15px rgba(64, 224, 207, 0.1);
+  background: rgba(17, 24, 39, 0.9);
+  border-color: rgba(64, 224, 207, 0.5);
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 20px rgba(64, 224, 207, 0.15);
 }
 
 .benefit-icon {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
   color: var(--brand-red);
-  filter: drop-shadow(0 0 8px rgba(255, 77, 77, 0.3));
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 77, 77, 0.05);
+  border: 1px solid rgba(255, 77, 77, 0.1);
+  border-radius: 50%;
+  box-shadow: inset 0 0 15px rgba(255, 77, 77, 0.05);
+  transition: all 0.3s ease;
+}
+
+.benefit-card:hover .benefit-icon {
+  background: rgba(255, 77, 77, 0.1);
+  box-shadow: inset 0 0 20px rgba(255, 77, 77, 0.15), 0 0 15px rgba(255, 77, 77, 0.1);
 }
 
 .benefit-icon svg {
@@ -637,15 +687,15 @@ nav {
 
 .feature-visual {
   flex: 1.2;
-  background: #111827;
-  border: 1px solid var(--border-color);
+  background: #0d1117;
+  border: 1px solid #30363d;
   border-radius: 12px;
   padding: 2.5rem 2rem;
   font-family: var(--font-mono);
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   position: relative;
   overflow: hidden;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 2px 10px rgba(0, 0, 0, 0.5), 0 25px 50px -12px rgba(0, 0, 0, 0.5);
 }
 
 .feature-visual::before {
@@ -771,6 +821,20 @@ nav {
   border-top: 1px solid rgba(64, 224, 207, 0.08);
   margin-top: 0.5rem;
   padding-top: 1rem;
+  /* Add animation for opening details smoothly */
+  animation: details-show 0.3s ease-in-out forwards;
+}
+
+@keyframes details-show {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* ---------- Final CTA ---------- */
