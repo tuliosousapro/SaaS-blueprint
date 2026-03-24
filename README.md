@@ -1,6 +1,6 @@
 <div align="center">
-  <img 
-    src="https://github.com/tuliosousapro/SaaS-blueprint/blob/b9aac824513bdbdaf6b65b443675b9b047a0636d/docs/brainiac-saas-blueprint-banner.png" 
+  <img
+    src="https://github.com/tuliosousapro/SaaS-blueprint/blob/b9aac824513bdbdaf6b65b443675b9b047a0636d/docs/brainiac-saas-blueprint-banner.png"
     width="900"
     alt="BRAINIAC SaaS Blueprint Banner"
   />
@@ -298,7 +298,14 @@ Please [Read the Contributing Guide](CONTRIBUTING.md).
 - [ ] Add example outputs for each playbook  
 - [ ] Add community playbooks  
 - [ ] Add templates for landing pages, emails, funnels  
-- [ ] Add automation scripts, skills, and tools  
+- [ ] Add automation scripts, skills, and tools
+- [ ] Add changelog skill <https://keepachangelog.com/>
+- [ ] Add semantic versioning skill <https://semver.org/>
+- [ ] Add commit message skill <https://www.conventionalcommits.org/>
+- [ ] Add git control skill <https://git-scm.com/>
+- [ ] Add MCP server registry <https://registry.modelcontextprotocol.io/>
+- [ ] Add MCP reference servers <https://github.com/modelcontextprotocol/servers>
+- [ ] Add MCP documentation <https://modelcontextprotocol.io/>
 
 ## 🌍 Used By  
 

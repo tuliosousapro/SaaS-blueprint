@@ -13,3 +13,6 @@ __pycache__/
 *.pyc
 
 gha-creds-*.json
+
+# MCP
+.mcp/
