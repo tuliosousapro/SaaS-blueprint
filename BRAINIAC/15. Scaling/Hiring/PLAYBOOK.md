@@ -11,13 +11,6 @@ Listen up. We're not here to play startup; we're here to build a scalable, high-
 2. **Execute (Vibe Coding):** Spin up the environment, hit the APIs, and get it working. We iterate in production. Speed is a feature.
 3. **Measure & Adjust:** Track the metrics. If it's failing, pivot immediately. If it works, pour gasoline on it.
 
-## 🤖 Vibe Coding Prompts
-*Copy-paste these into your AI to get started instantly.*
-
-> "I am building the Hiring component for my SaaS. Generate a robust, production-ready implementation plan. Prioritize speed, modern tech stack, and zero tech debt. Give me the code."
-
-> "Review my current approach to Hiring. Point out any bottlenecks, security flaws, or over-engineering. Give me the 'senior founder' refactor to make it brutally simple and highly scalable."
-
 ## 📈 Success Metrics
 - **Velocity:** How fast did we ship the initial version?
 - **Impact:** Did this directly contribute to ARR, retention, or user growth?

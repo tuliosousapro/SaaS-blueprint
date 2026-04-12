@@ -1,27 +1,31 @@
-﻿# 🧠 PLAYBOOK: Product Hunt
+# 🚀 PLAYBOOK: Product Hunt Launch Strategy
 
 ## 🎯 Objective
-Ship fast, validate early, and scale ruthlessly. This module focuses on executing **Product Hunt** within the **Launch** phase. No fluff, just results.
+Execute a world-class Product Hunt launch to secure a Top 5 placement, driving high-quality leads, SEO backlinks, and initial revenue.
 
-## 🚀 The Brainiac Vibe
-Listen up. We're not here to play startup; we're here to build a scalable, high-leverage SaaS machine. Your goal for *Product Hunt* is maximum impact with minimum friction. We don't do 'nice to haves'. We automate what we can, delegate what we must, and code the rest with pure vibe. If it doesn't move the needle, we drop it.
+## 🧠 The Mindset
+Product Hunt is not just a "post." It is an algorithm-driven competition. We don't hope for success; we engineer it. A successful launch requires high-leverage preparation, a "warm" community base, and brutal execution speed on launch day.
 
-## 🛠️ Action Steps
-1. **Define the Scope:** What is the absolute minimum we need to prove this works? Define the MVP for Product Hunt.
-2. **Execute (Vibe Coding):** Spin up the environment, hit the APIs, and get it working. We iterate in production. Speed is a feature.
-3. **Measure & Adjust:** Track the metrics. If it's failing, pivot immediately. If it works, pour gasoline on it.
+## 📋 Master Plan
+This playbook is designed to be executed alongside the [Product Hunt Launch Checklist](CHECKLIST.md).
 
-## 🤖 Vibe Coding Prompts
-*Copy-paste these into your AI to get started instantly.*
+### 1. Preparation Phase (T-Minus 6 Weeks)
+- **Community First:** Don't be a taker. Engage with the PH community 2+ weeks before launching.
+- **Teaser Strategy:** Use the "Coming Soon" page to build a pre-launch email list.
 
-> "I am building the Product Hunt component for my SaaS. Generate a robust, production-ready implementation plan. Prioritize speed, modern tech stack, and zero tech debt. Give me the code."
+### 2. Asset Engineering
+- **Human Story:** Product Hunt users buy stories, not just software. In your first comment, explain the "Why."
+- **Visual Clarity:** Use GIFs for thumbnails and benefit-oriented screenshots for the gallery.
 
-> "Review my current approach to Product Hunt. Point out any bottlenecks, security flaws, or over-engineering. Give me the 'senior founder' refactor to make it brutally simple and highly scalable."
+### 3. Launch Day Operations
+- **00:01 PST Start:** Launch at the exact start of the PH day to maximize visibility.
+- **Engagement Loop:** Treat comments like a live chat. Every comment is an opportunity to drive engagement and signal the algorithm.
 
-## 📈 Success Metrics
-- **Velocity:** How fast did we ship the initial version?
-- **Impact:** Did this directly contribute to ARR, retention, or user growth?
-- **Elegance:** Is the solution brutally simple and maintainable?
+## 📈 Key Success Factors
+- **Initial Velocity:** Secure 50+ upvotes in the first hour.
+- **Conversation Depth:** Aim for long, meaningful comment threads.
+- **Referral Quality:** Direct traffic from PH active users (not fresh accounts).
 
 ---
-*Stay focused. Ship it.*
+
+*Phase: Launch | Status: High Impact | Goal: Top 5 of the Day*

@@ -73,14 +73,6 @@ Write them down. Don't filter yet.
 | **Skills** | `.gemini/skills/market-research/` |
 | **Slash Commands** | — |
 
-## Vibe Coding Prompts
-
-> "I'm researching problems faced by {TARGET_AUDIENCE}. Search Reddit, Indie Hackers, and Twitter for the top complaints, frustrations, and unmet needs. Return a table with: problem description, source URL, severity (1-5), frequency of mention."
-
-> "Given these raw pain signals: {PASTE_SIGNALS}. Cluster them into 3-5 distinct problems. For each, estimate severity, frequency, and identify what existing tools fail to solve."
-
-> "I want to build a SaaS for {TARGET_AUDIENCE} who struggle with {PROBLEM}. Draft an Ideal Customer Profile including: role, company stage, industry, pain frequency, current workaround, budget range."
-
 ## Success Criteria
 
 - [ ] `PROBLEMS.md` exists with 3+ problems, each scored on frequency and severity

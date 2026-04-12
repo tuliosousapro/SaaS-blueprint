@@ -1,0 +1,10 @@
+/*TEAM*/
+Creator: Túlio Sousa
+GitHub: <https://github.com/tuliosousapro>
+From: Earth
+
+/*SITE*/
+Last update: 2026-04-12
+Language: English
+Doctype: SaaS Blueprint / Documentation
+Tools: Antigravity, VS Code, GitHub, Firecrawl, Supabase

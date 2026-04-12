@@ -120,14 +120,6 @@ Return to 0.1 Problem Discovery with hypothesis: {new direction}.
 | **Skills** | `.gemini/skills/idea-validator/` |
 | **Slash Commands** | `/phase-status Idea` (to verify all prereqs are complete) |
 
-## Vibe Coding Prompts
-
-> "I've completed the Idea phase for my SaaS. Here are my findings: Problem: {PASTE_PROBLEM}, Market: {PASTE_MARKET_SIZE}, ICP: {PASTE_ICP}, Competitors: {PASTE_MATRIX}, Gaps: {PASTE_GAPS}. Synthesize this into a one-page Opportunity Canvas."
-
-> "Score this idea on 5 dimensions (1-5 each): Problem Severity, Willingness to Pay, Market Timing, Founder-Market Fit, Execution Feasibility. Use the evidence I've provided. Give a total score /25 and a GO/PAUSE/PIVOT recommendation."
-
-> "Write a 6-sentence executive summary of Phase 0 (Idea) covering: the decision, the problem, the market, the customer, the competition, and the next step."
-
 ## Success Criteria
 
 - [ ] Opportunity Canvas exists with all 6 sections populated

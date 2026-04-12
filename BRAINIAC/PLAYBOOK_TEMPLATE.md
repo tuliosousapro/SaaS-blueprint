@@ -45,12 +45,6 @@ One sentence. What does completing this module produce?
 | **Skills** | {/skills/skill-name} |
 | **Slash Commands** | {/workflow-name} |
 
-## Vibe Coding Prompts
-
-> "{Module-specific, copy-paste-ready prompt with {PLACEHOLDERS} for user context}"
-
-> "{Second prompt targeting a different aspect of this module}"
-
 ## Success Criteria
 
 - [ ] {Binary pass/fail check 1 — measurable, not vibes}

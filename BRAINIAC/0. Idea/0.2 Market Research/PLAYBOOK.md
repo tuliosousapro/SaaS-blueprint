@@ -91,14 +91,6 @@ Document all assumptions in `MARKET_SIZE.md`.
 | **Skills** | `.gemini/skills/market-research/` |
 | **Slash Commands** | `/run-playbook 0. Idea/0.2 Market Research` |
 
-## Vibe Coding Prompts
-
-> "Research the market size for {INDUSTRY/CATEGORY}. Find TAM, SAM, and SOM estimates from credible sources (analyst reports, industry publications). Present as a table with value, source, year, and confidence level."
-
-> "I'm building a SaaS that solves {PROBLEM} for {ICP}. Estimate the bottom-up market size using: target population of {X}, average price point of ${Y}/mo, and {Z}% realistic conversion. Show the math."
-
-> "Analyze market trends for {INDUSTRY} in 2025-2026. Categorize as tailwinds (forces helping us), headwinds (forces against us), and wildcards (unpredictable high-impact events). Cite sources."
-
 ## Success Criteria
 
 - [ ] TAM/SAM/SOM documented with at least 3 independent sources

@@ -117,16 +117,6 @@ Map the competitive landscape for your selected niche, extract pricing/feature i
 | **Skills** | `.gemini/skills/competitor-analysis/` |
 | **Slash Commands** | `/run-playbook 0. Idea/0.4 Competitor Analysis` |
 
-## Vibe Coding Prompts
-
-> "Find the top 5 competitors in the {CATEGORY} space for {ICP}. For each, extract: name, URL, tagline, pricing tiers, and key features. Present as a comparison table."
-
-> "Scrape {COMPETITOR_URL}/pricing and extract all pricing tiers, prices, and feature limits. Return structured JSON."
-
-> "Search Reddit, G2, and Twitter for complaints about {COMPETITOR_NAME}. What are users frustrated with? What features are they requesting? Summarize the top 5 gaps."
-
-> "Given this competitor matrix: {PASTE_MATRIX}. Identify the #1 strategic gap we should exploit. Write a one-paragraph competitive angle: how do we position against these players?"
-
 ## Success Criteria
 
 - [ ] 3+ direct competitors analyzed with real scraped data (not from memory)

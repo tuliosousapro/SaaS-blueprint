@@ -97,14 +97,6 @@ Plus 3 alternative taglines under 10 words each.
 | **Skills** | `.gemini/skills/market-research/` |
 | **Slash Commands** | — |
 
-## Vibe Coding Prompts
-
-> "Given these problem clusters: {PASTE_PROBLEMS}. Generate 3-5 candidate niches. Each niche must specify: the audience (who), the problem (what), and the context (when/where). Score each on market size, severity, WTP, reachability, founder-fit, and competition."
-
-> "For the niche '{NICHE_DESCRIPTION}', find 5+ online communities, forums, newsletters, or social accounts where this audience actively hangs out. I need to validate that I can actually reach these people."
-
-> "Write a positioning statement for {PRODUCT_NAME}: a {CATEGORY} for {ICP} who {PROBLEM}. Use the format: For [who] who [pain], [product] is a [category] that [benefit]. Unlike [alternative], we [differentiator]. Then give me 3 taglines under 10 words."
-
 ## Success Criteria
 
 - [ ] 3+ candidate niches evaluated with weighted scores
