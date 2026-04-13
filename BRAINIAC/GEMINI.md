@@ -36,58 +36,59 @@ Help the {USER} create a high-profitable SaaS called {APP_NAME}. You must interv
 
 ### Skills (`.gemini/skills/`)
 
-| Skill | Purpose |
-|-------|---------|
-| `market-research` | Firecrawl-powered TAM/SAM/SOM, competitor scraping, trend analysis |
-| `playbook-writer` | Meta-skill for generating template-compliant playbooks |
-| `competitor-analysis` | Structured competitor teardown with pricing/feature extraction |
-| `idea-validator` | 5-dimension scoring framework (severity, WTP, timing, fit, feasibility) |
-| `changelog` | Keep a Changelog format maintenance |
-| `conventional-commits` | Conventional Commits enforcement for git messages |
+| Skill                  | Purpose                                                                 |
+| ---------------------- | ----------------------------------------------------------------------- |
+| `market-research`      | Firecrawl-powered TAM/SAM/SOM, competitor scraping, trend analysis      |
+| `playbook-writer`      | Meta-skill for generating template-compliant playbooks                  |
+| `competitor-analysis`  | Structured competitor teardown with pricing/feature extraction          |
+| `idea-validator`       | 5-dimension scoring framework (severity, WTP, timing, fit, feasibility) |
+| `changelog`            | Keep a Changelog format maintenance                                     |
+| `conventional-commits` | Conventional Commits enforcement for git messages                       |
+| `semantic-versioning`  | Automated SemVer logic and multi-file version synchronization           |
 
 ### Workflows (`.gemini/workflows/`)
 
-| Command | Purpose |
-|---------|---------|
-| `/run-playbook` | Execute a playbook end-to-end with prerequisite checking |
-| `/phase-status` | Scan a phase and report module completion status |
-| `/next-step` | Determine the next incomplete module to work on |
-| `/landing-page-check` | Landing page design validation |
-| `/ui-ux-pro-max` | Plan and implement UI |
+| Command               | Purpose                                                  |
+| --------------------- | -------------------------------------------------------- |
+| `/run-playbook`       | Execute a playbook end-to-end with prerequisite checking |
+| `/phase-status`       | Scan a phase and report module completion status         |
+| `/next-step`          | Determine the next incomplete module to work on          |
+| `/landing-page-check` | Landing page design validation                           |
+| `/ui-ux-pro-max`      | Plan and implement UI                                    |
 
 ### Tools & Resources Store
 
-| Category | Resource |
-| --- | --- |
-| Gemini Extensions | [geminicli.com/extensions](https://geminicli.com/extensions/) |
-| Claude Connectors | [claude.com/connectors](https://claude.com/connectors#connectors) |
-| Claude Plugins | [claude.com/plugins](https://claude.com/plugins#plugins) |
-| Anthropic Skills | [github.com/anthropics/skills](https://github.com/anthropics/skills) |
-| Skills Registry | [skills.sh](https://skills.sh/) |
-| Context & Docs | [context7.com](https://context7.com/) |
+| Category          | Resource                                                             |
+| ----------------- | -------------------------------------------------------------------- |
+| Gemini Extensions | [geminicli.com/extensions](https://geminicli.com/extensions/)        |
+| Claude Connectors | [claude.com/connectors](https://claude.com/connectors#connectors)    |
+| Claude Plugins    | [claude.com/plugins](https://claude.com/plugins#plugins)             |
+| Anthropic Skills  | [github.com/anthropics/skills](https://github.com/anthropics/skills) |
+| Skills Registry   | [skills.sh](https://skills.sh/)                                      |
+| Context & Docs    | [context7.com](https://context7.com/)                                |
 
 ## Directory Structure
 
 The workspace is organized into 16 lifecycle phases:
 
-| # | Phase | Scope |
-|---|-------|-------|
-| 0 | Idea | Problem Discovery, Market Research, Niche Selection, Competitor Analysis, Opportunity Mapping |
-| 1 | Validation | Customer Interviews, Landing Page Test, Waitlist, Pre Sales, Demand Testing |
-| 2 | Planning | Product Roadmap, Feature Prioritization, MVP Scope, Tech Stack, Development Plan |
-| 3 | Design | Wireframes, UI Design, UX Flows, Prototype, Design System |
-| 4 | Development | Frontend, Backend, APIs, Database, Authentication, Integrations |
-| 5 | Infrastructure | Cloud Hosting, DevOps, CI CD, Monitoring, Security |
-| 6 | Testing | Unit Testing, Integration Testing, Bug Fixing, Performance Testing, Beta Testing |
-| 7 | Launch | Landing Page, Product Hunt, Beta Users, Early Adopters, Public Release |
-| 8 | Acquisition | SEO Wins, Content Marketing, Social Media, Cold Email, Influencer Outreach, Affiliate Marketing |
-| 9 | Distribution | Directories, SaaS Marketplaces, Communities, Partnerships, Integrations |
-| 10 | Conversion | Sales Funnel, Free Trial, Freemium Model, Pricing Strategy, Checkout Optimization |
-| 11 | Revenue | Subscriptions, Upsells, Add-ons, Annual Plans, Enterprise Deals |
-| 12 | Analytics | User Tracking, Funnel Analysis, Cohort Analysis, KPI Dashboard, AB Testing |
-| 13 | Retention | User Onboarding, Email Automation, Customer Support, Feature Adoption, Churn Reduction |
-| 14 | Growth | Referral Programs, Community Building, Product Led Growth, Viral Loops, Expansion Strategy |
-| 15 | Scaling | Automation, Hiring, Systems, Global Expansion, Exit Strategy |
+| #   | Phase          | Scope                                                                                           |
+| --- | -------------- | ----------------------------------------------------------------------------------------------- |
+| 0   | Idea           | Problem Discovery, Market Research, Niche Selection, Competitor Analysis, Opportunity Mapping   |
+| 1   | Validation     | Customer Interviews, Landing Page Test, Waitlist, Pre Sales, Demand Testing                     |
+| 2   | Planning       | Product Roadmap, Feature Prioritization, MVP Scope, Tech Stack, Development Plan                |
+| 3   | Design         | Wireframes, UI Design, UX Flows, Prototype, Design System                                       |
+| 4   | Development    | Frontend, Backend, APIs, Database, Authentication, Integrations                                 |
+| 5   | Infrastructure | Cloud Hosting, DevOps, CI CD, Monitoring, Security                                              |
+| 6   | Testing        | Unit Testing, Integration Testing, Bug Fixing, Performance Testing, Beta Testing                |
+| 7   | Launch         | Landing Page, Product Hunt, Beta Users, Early Adopters, Public Release                          |
+| 8   | Acquisition    | SEO Wins, Content Marketing, Social Media, Cold Email, Influencer Outreach, Affiliate Marketing |
+| 9   | Distribution   | Directories, SaaS Marketplaces, Communities, Partnerships, Integrations                         |
+| 10  | Conversion     | Sales Funnel, Free Trial, Freemium Model, Pricing Strategy, Checkout Optimization               |
+| 11  | Revenue        | Subscriptions, Upsells, Add-ons, Annual Plans, Enterprise Deals                                 |
+| 12  | Analytics      | User Tracking, Funnel Analysis, Cohort Analysis, KPI Dashboard, AB Testing                      |
+| 13  | Retention      | User Onboarding, Email Automation, Customer Support, Feature Adoption, Churn Reduction          |
+| 14  | Growth         | Referral Programs, Community Building, Product Led Growth, Viral Loops, Expansion Strategy      |
+| 15  | Scaling        | Automation, Hiring, Systems, Global Expansion, Exit Strategy                                    |
 
 ## Playbook Navigation Rules
 

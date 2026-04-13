@@ -300,7 +300,7 @@ Please [Read the Contributing Guide](CONTRIBUTING.md).
 - [ ] Add templates for landing pages, emails, funnels  
 - [ ] Add automation scripts, skills, and tools
 - [x] Add changelog skill <https://keepachangelog.com/>
-- [ ] Add semantic versioning skill <https://semver.org/>
+- [x] Add semantic versioning skill <https://semver.org/>
 - [ ] Add commit message skill <https://www.conventionalcommits.org/>
 - [ ] Add git control skill <https://git-scm.com/>
 - [ ] Add MCP server registry <https://registry.modelcontextprotocol.io/>
