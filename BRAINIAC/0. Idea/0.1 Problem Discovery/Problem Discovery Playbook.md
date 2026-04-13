@@ -83,6 +83,6 @@ Write them down. Don't filter yet.
 
 ## Cross-References
 
-- **Feeds into:** [Market Research](../0.2%20Market%20Research/PLAYBOOK.md) — uses the selected problem to size the market
-- **Feeds into:** [Niche Selection](../0.3%20Niche%20Selection/PLAYBOOK.md) — uses the ICP draft to evaluate niches
-- **Related:** [Opportunity Mapping](../0.5%20Opportunity%20Mapping/PLAYBOOK.md) — synthesizes all Idea outputs
+- **Feeds into:** [Market Research](../0.2%20Market%20Research/0.2%20Market%20Research Playbook.md) — uses the selected problem to size the market
+- **Feeds into:** [Niche Selection](../0.3%20Niche%20Selection/0.3%20Niche%20Selection Playbook.md) — uses the ICP draft to evaluate niches
+- **Related:** [Opportunity Mapping](../0.5%20Opportunity%20Mapping/0.5%20Opportunity%20Mapping Playbook.md) — synthesizes all Idea outputs

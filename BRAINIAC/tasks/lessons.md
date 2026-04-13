@@ -8,4 +8,4 @@
 - Run diagnostics and tests before finalizing tasks.
 
 ## Corrections
-*(Add specific corrections here as they occur)*
+- **Categorization:** "First Customers" playbooks belong in `8. Acquisition`, not `14. Growth`. Growth is for scaling validated channels; Acquisition is for initial discovery and channel validation.

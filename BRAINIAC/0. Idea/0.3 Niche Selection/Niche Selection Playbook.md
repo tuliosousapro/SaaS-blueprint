@@ -17,8 +17,8 @@ Evaluate candidate niches against a scoring matrix and select the single niche w
 
 | Module | Status |
 |--------|--------|
-| [0.1 Problem Discovery](../0.1%20Problem%20Discovery/PLAYBOOK.md) | ⬜ Not Started |
-| [0.2 Market Research](../0.2%20Market%20Research/PLAYBOOK.md) | ⬜ Not Started |
+| [0.1 Problem Discovery](../0.1%20Problem%20Discovery/0.1%20Problem%20Discovery Playbook.md) | ⬜ Not Started |
+| [0.2 Market Research](../0.2%20Market%20Research/0.2%20Market%20Research Playbook.md) | ⬜ Not Started |
 
 > Requires: Problem clusters, ICP draft, and market size data.
 
@@ -107,7 +107,7 @@ Plus 3 alternative taglines under 10 words each.
 
 ## Cross-References
 
-- **Depends on:** [Problem Discovery](../0.1%20Problem%20Discovery/PLAYBOOK.md) — problem clusters + ICP draft
-- **Depends on:** [Market Research](../0.2%20Market%20Research/PLAYBOOK.md) — market size data for scoring
-- **Feeds into:** [Competitor Analysis](../0.4%20Competitor%20Analysis/PLAYBOOK.md) — niche focus narrows competitor scope
-- **Feeds into:** [Opportunity Mapping](../0.5%20Opportunity%20Mapping/PLAYBOOK.md) — niche + positioning feed the final assessment
+- **Depends on:** [Problem Discovery](../0.1%20Problem%20Discovery/0.1%20Problem%20Discovery Playbook.md) — problem clusters + ICP draft
+- **Depends on:** [Market Research](../0.2%20Market%20Research/0.2%20Market%20Research Playbook.md) — market size data for scoring
+- **Feeds into:** [Competitor Analysis](../0.4%20Competitor%20Analysis/0.4%20Competitor%20Analysis Playbook.md) — niche focus narrows competitor scope
+- **Feeds into:** [Opportunity Mapping](../0.5%20Opportunity%20Mapping/0.5%20Opportunity%20Mapping Playbook.md) — niche + positioning feed the final assessment

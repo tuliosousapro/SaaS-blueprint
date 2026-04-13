@@ -5,7 +5,8 @@
 ┃ ┣ 📂 Market Research
 ┃ ┣ 📂 Niche Selection
 ┃ ┣ 📂 Competitor Analysis
-┃ ┗ 📂 Opportunity Mapping
+┃ ┣ 📂 Opportunity Mapping
+┃ ┗ 📂 PRD Generation
 ┃
 ┣ 📂 Validation
 ┃ ┣ 📂 Customer Interviews
@@ -53,8 +54,8 @@
 ┣ 📂 Launch
 ┃ ┣ 📂 Landing Page
 ┃ ┃ ┣ 📂 Legal
-┃ ┃ ┣ 📂Terms of use 
-┃ ┃ ┣ 📂Privacy Policy 
+┃ ┃ ┣ 📂Terms of use
+┃ ┃ ┣ 📂Privacy Policy
 ┃ ┃ ┗ 📂 Cookie Notice
 ┃ ┣ 📂 Product Hunt
 ┃ ┣ 📂 Beta Users

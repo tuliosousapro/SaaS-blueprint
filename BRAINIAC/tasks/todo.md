@@ -6,6 +6,7 @@
 - [ ] PLAYBOOK_TEMPLATE.md created and finalized
 - [ ] Phase 0 (Idea) playbooks rewritten to new template
 - [ ] Phase 1 (Validation) playbooks rewritten to new template
+- [x] Phase 8 (Acquisition) master playbook created
 - [ ] Remaining phases queued for rewrite
 
 ### Skills Architecture

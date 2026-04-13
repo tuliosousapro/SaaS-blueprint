@@ -1,0 +1,8 @@
+{
+  "name": "SaaS-blueprint",
+  "version": "1.0.0",
+  "description": "Premium SaaS starting framework with AI-first playbooks.",
+  "author": "Túlio Sousa",
+  "github": "https://github.com/tuliosousapro",
+  "stack": ["HTML", "JavaScript", "Vanilla CSS", "Next.js", "Vite", "Supabase", "Firecrawl"]
+}

@@ -16,7 +16,7 @@ Size the market for your selected problem and validate that the opportunity is l
 
 | Module | Status |
 |--------|--------|
-| [0.1 Problem Discovery](../0.1%20Problem%20Discovery/PLAYBOOK.md) | ⬜ Not Started |
+| [0.1 Problem Discovery](../0.1%20Problem%20Discovery/0.1%20Problem%20Discovery Playbook.md) | ⬜ Not Started |
 
 > Requires: Selected problem + ICP draft from Problem Discovery.
 
@@ -101,7 +101,7 @@ Document all assumptions in `MARKET_SIZE.md`.
 
 ## Cross-References
 
-- **Depends on:** [Problem Discovery](../0.1%20Problem%20Discovery/PLAYBOOK.md) — selected problem + ICP
-- **Feeds into:** [Niche Selection](../0.3%20Niche%20Selection/PLAYBOOK.md) — market data informs niche scoring
-- **Feeds into:** [Opportunity Mapping](../0.5%20Opportunity%20Mapping/PLAYBOOK.md) — market size feeds opportunity score
-- **Related:** [Competitor Analysis](../0.4%20Competitor%20Analysis/PLAYBOOK.md) — competitor pricing validates ARPU assumptions
+- **Depends on:** [Problem Discovery](../0.1%20Problem%20Discovery/0.1%20Problem%20Discovery Playbook.md) — selected problem + ICP
+- **Feeds into:** [Niche Selection](../0.3%20Niche%20Selection/0.3%20Niche%20Selection Playbook.md) — market data informs niche scoring
+- **Feeds into:** [Opportunity Mapping](../0.5%20Opportunity%20Mapping/0.5%20Opportunity%20Mapping Playbook.md) — market size feeds opportunity score
+- **Related:** [Competitor Analysis](../0.4%20Competitor%20Analysis/0.4%20Competitor%20Analysis Playbook.md) — competitor pricing validates ARPU assumptions

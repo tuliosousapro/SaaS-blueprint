@@ -39,6 +39,9 @@ Build a sustainable growth engine for your SaaS by implementing high-leverage gr
 
 ## Growth Idea Bank (37 High-Leverage Tactics)
 
+> [!NOTE]
+> **Credits:** These growth ideas were originally curated by [Greg Isenberg](https://x.com/gregisenberg).
+
 Finding customers is one of the hardest parts about building a company. Here are 37 ideas that actually work:
 
 1. **Expired domain goldmine.** Find high DA dead sites, rebuild with AI content. Rank for killer terms in weeks.
@@ -95,6 +98,6 @@ Finding customers is one of the hardest parts about building a company. Here are
 
 ## Cross-References
 
-- **Feeds into:** [15. Scaling](../15. Scaling/PLAYBOOK.md)
-- **Depends on:** [7. Launch](../7. Launch/Public Release/PLAYBOOK.md)
-- **Related:** [8. Acquisition](../8. Acquisition/SEO Wins/PLAYBOOK.md)
+- **Feeds into:** [15. Scaling](../15. Scaling/Scaling Playbook.md)
+- **Depends on:** [7. Launch](../7. Launch/Public Release/Public Release Playbook.md)
+- **Related:** [8. Acquisition](../8. Acquisition/SEO Wins/SEO Wins Playbook.md)

@@ -6,7 +6,7 @@ Craft and distribute professional release notes that maximize reach, generate pr
 
 ## Launch Priority
 
-**Product Hunt is the #1 launch platform.** Execute the full [Product Hunt Playbook](../Product%20Hunt/PLAYBOOK.md) and [Checklist](../Product%20Hunt/CHECKLIST.md) before anything else. After Product Hunt, submit to every platform listed in the [Directories & Launch Platforms](../Directories%20%26%20Launch%20Platforms.md) guide.
+**Product Hunt is the #1 launch platform.** Execute the full [Product Hunt Playbook](../Product%20Hunt/Product%20Hunt Playbook.md) and [Checklist](../Product%20Hunt/CHECKLIST.md) before anything else. After Product Hunt, submit to every platform listed in the [Directories & Launch Platforms](../Directories%20%26%20Launch%20Platforms.md) guide.
 
 ## Release Notes Structure
 
@@ -45,7 +45,7 @@ Every public release should follow this format:
 
 After crafting the release notes, distribute across these channels in order:
 
-1. **Product Hunt** — Primary launch platform. See [Product Hunt Playbook](../Product%20Hunt/PLAYBOOK.md).
+1. **Product Hunt** — Primary launch platform. See [Product Hunt Playbook](../Product%20Hunt/Product%20Hunt Playbook.md).
 2. **Directories & Platforms** — Submit to all platforms in [Directories & Launch Platforms](../Directories%20%26%20Launch%20Platforms.md).
 3. **X/Twitter** — Thread format. Build in Public style.
 4. **LinkedIn** — Long-form post targeting your ICP's professional network.
