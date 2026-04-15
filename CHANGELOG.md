@@ -5,6 +5,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added
+
+- Added `create-readme` skill for automated generation of professional project README files.
+- Integrated repository agent guidelines in `AGENTS.md` for structured AI workflows.
+
+### Changed
+
+- Migrated internal agent skills and workflows from `.gemini/` legacy paths to standard structures.
+- Updated repository structure documentation and tools mapping in `AGENTS.md`.
+- Updated `tasks/todo.md` and `tasks/lessons.md`.
+
+## [2.1.0] - 2026-04-13
+
+### Added
+
+- Added MCP Server Registry skill.
+- Added MCP Reference Servers skill.
+- Added MCP Documentation skill.
+- Integrated official MCP resources into the project roadmap.
+
 ## [2.0.0] - 2026-04-12
 
 ### Added
