@@ -5,3 +5,5 @@
 - [x] Create/Update `humans.txt` as per project requirements
 - [x] Create `.github/repository-metadata.json`
 - [x] Verify documentation and finalize
+- [x] Implement Git Control Skill
+- [x] Map Automation Scripts, Skills, and Tools to BRAINIAC folders

@@ -53,3 +53,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release of the SaaS-blueprint framework.
 - Basic folder structure for SaaS development.
 - Core documentation including `LICENSE` and initial `README.md`.
+
+# Skills Table
+
+| Skill Name | Description | Last Update |
+| :--- | :--- | :--- |
+| **Semantic Versioning** | Manages project versioning following Semantic Versioning (SemVer) principles. | 2026-04-14 |
+| **Playbook Writer** | Meta-skill that generates compliant PLAYBOOK.md files following the BRAINIAC template. | 2026-04-13 |
+| **MCP Server Registry** | Discovery and usage of servers through the official Model Context Protocol (MCP) registry. | 2026-04-13 |
+| **MCP Reference Servers** | Guidance on using and integrating official reference servers from MCP. | 2026-04-13 |
+| **MCP Documentation** | Reference and learning guide for the Model Context Protocol (MCP) specification. | 2026-04-13 |
+| **Market Research** | Deep web research skill using Firecrawl MCP. Scrapes competitors and estimates TAM/SAM/SOM. | 2026-04-13 |
+| **Idea Validator** | Scorecard for ideas on problem severity, willingness-to-pay, and market timing. | 2026-04-13 |
+| **Git Control** | Standardizes git operations, branch management, and disaster recovery. | 2026-04-13 |
+| **create-readme** | Intelligent README.md generation prompt that analyzes project structure. | 2026-04-15 |
+| **Conventional Commits** | Enforces Conventional Commits format for all git commit messages. | 2026-04-13 |
+| **Competitor Analysis** | Structured competitor teardown skill. Scrapes sites and builds comparison matrices. | 2026-04-13 |
+| **Changelog** | Generates and maintains changelogs following Keep a Changelog format. | 2026-04-15 |
