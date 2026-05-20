@@ -11,5 +11,9 @@ node_modules/
 # Python, etc if applicable
 __pycache__/
 *.pyc
+tmp/
 
 gha-creds-*.json
+
+# MCP
+.mcp/
