@@ -16,7 +16,7 @@ Size the market for your selected problem and validate that the opportunity is l
 
 | Module | Status |
 |--------|--------|
-| [0.1 Problem Discovery](../0.1%20Problem%20Discovery/0.1%20Problem%20Discovery Playbook.md) | ⬜ Not Started |
+| [0.1 Problem Discovery](../0.1%20Problem%20Discovery/Problem%20Discovery%20Playbook.md) | ⬜ Not Started |
 
 > Requires: Selected problem + ICP draft from Problem Discovery.
 
