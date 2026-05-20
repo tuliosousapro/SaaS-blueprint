@@ -22,7 +22,7 @@ description: Standardizes git operations, branch management, and disaster recove
 
 ### Staging & Committing
 
-- Always follow the [Conventional Commits](file:///c:/Users/Túlio/Documents/GitHub/SaaS-blueprint/.gemini/skills/conventional-commits/conventional_commits.md) skill.
+- Always follow the [Conventional Commits](../conventional-commits/conventional_commits.md) skill.
 - Stage only relevant changes: `git add <file>` (avoid `git add .` unless necessary).
 - Review changes before committing: `git diff --staged`.
 
