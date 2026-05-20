@@ -1,19 +1,9 @@
 ---
-name: Semantic Versioning
-description: Manages project versioning following Semantic Versioning (SemVer) principles. Calculates increments based on changes and synchronizes version across documentation and metadata.
+name: semantic-versioning
+description: Manages project versioning following Semantic Versioning (SemVer) principles. Calculates increments based on changes and synchronizes version across documentation and metadata. Use when the user asks to "bump the version", "prepare a release", or when the `changelog` skill calls for a release.
 ---
 
 # Semantic Versioning Skill
-
-## When to Use
-
-- Automatically called by the `changelog` skill during a release.
-- When the user asks to "bump the version" or "prepare a release".
-- To synchronize versioning across multiple files.
-
-## Reference
-
-[Semantic Versioning 2.0.0](https://semver.org/)
 
 ## Instructions
 
