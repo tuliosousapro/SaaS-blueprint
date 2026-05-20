@@ -23,7 +23,7 @@ Execute a specific BRAINIAC playbook from start to finish.
    - If prerequisites are ⬜ Not Started → warn the user and ask whether to run the prerequisite first or skip
 
 4. **Read relevant Skills.** Check the Agent Context table:
-   - Read each referenced SKILL.md from `.gemini/skills/{skill-name}/SKILL.md`
+   - Read each referenced SKILL.md from `skills/{skill-name}/SKILL.md`
    - Load the tool/MCP requirements
 
 5. **Execute Action Steps** in order:
